@@ -14,7 +14,7 @@
  	<a href="https://twitter.com/Lanna74778791" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allana-karen-a05ab8234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
    
-  
+  ![Snake animation](https://github.com/allanakaren/allanakaren/blob/output/github-contribution-grid-snake.svg)
           
           
            
